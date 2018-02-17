@@ -6,7 +6,7 @@ Revision history for `Afterimage`, a Commodore 64 graphics library with a built-
 0.06-SNAPSHOT (2018-02-17)
 --------------------------
 
-* TODO
+* Enhancement: Enable saving rendered images directly in PNG format
 
 0.05 (2018-02-17)
 -----------------
