@@ -2,7 +2,7 @@ lazy val root = (project in file(".")).settings(
   name := "afterimage",
   organization := "org.c64.attitude",
   scalaVersion := "2.12.4",
-  version := "0.06"
+  version := "0.07-SNAPSHOT"
 )
 
 maxErrors := 1
